@@ -17,9 +17,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
-
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ishavariy&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ishavariya&show_icons=true&theme=dark)
+
 ### 🤝 Let's Connect
-- 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/mahek-korat-787623345/
 - 🌐 Portfolio: Coming Soon 🚀
+
+
