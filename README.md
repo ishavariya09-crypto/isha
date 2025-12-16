@@ -13,8 +13,10 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 Reach me at **ishavariya09@gmail.com**
 - ⚡ Fun fact: I love building clean UI ✨
-
----
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</p>
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=archipatel&show_icons=true&theme=dark)
