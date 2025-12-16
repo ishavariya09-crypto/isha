@@ -16,37 +16,8 @@
 
 ---
 
-### 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
-</p>
-
----
-
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishavariya09&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishavariya09&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishavariya09&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Let's Connect
-<p>
-  <a href="https://github.com/ishavariya09">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=archipatel&show_icons=true&theme=dark)
+### 🤝 Let's Connect
+- 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
+- 🌐 Portfolio: Coming Soon 🚀
